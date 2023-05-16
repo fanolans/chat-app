@@ -21,7 +21,7 @@ Flutter, ZIM SDK, & Zegocloud Kit
 Clone the project
 
 ```bash
-  git clone https://github.com/fanolans/chat-app-zegocloud.git
+  git clone https://github.com/fanolans/chat-app.git
 ```
 
 Go to the project directory
